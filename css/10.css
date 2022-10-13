@@ -1,0 +1,7 @@
+a[href$='.com']{
+    color: blueviolet;
+}
+
+input[type='tel']{
+    border: 2px solid red;
+}
